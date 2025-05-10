@@ -1,0 +1,15 @@
+
+.main{
+  display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+}
+h1{
+  text-align: center;
+  font-size: 3rem;
+}
+.btn{
+  max-width: 35%;
+  text-align: center;
+}
